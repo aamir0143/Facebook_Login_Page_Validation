@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T08:22:42 IST" name="Default suite" finished-at="2022-11-22T08:22:53 IST" duration-ms="11161">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T08:22:42 IST" name="Default test" finished-at="2022-11-22T08:22:53 IST" duration-ms="11161">
+      <class name="com.qa.FacebookLoginValidation.LoginPageValidation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:42 IST" name="setUp" finished-at="2022-11-22T08:22:44 IST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithCorrectUsernameAndWrongPassword()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:44 IST" name="loginWithCorrectUsernameAndWrongPassword" finished-at="2022-11-22T08:22:46 IST" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectUsernameAndWrongPassword -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:46 IST" name="setUp" finished-at="2022-11-22T08:22:48 IST" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithWrongUsernameAndCorrectPassword()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:48 IST" name="loginWithWrongUsernameAndCorrectPassword" finished-at="2022-11-22T08:22:50 IST" duration-ms="1974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithWrongUsernameAndCorrectPassword -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:50 IST" name="setUp" finished-at="2022-11-22T08:22:51 IST" duration-ms="1365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithoutUsernameAndPassword()[pri:0, instance:com.qa.FacebookLoginValidation.LoginPageValidation@5fbdfdcf]" started-at="2022-11-22T08:22:51 IST" name="loginWithoutUsernameAndPassword" finished-at="2022-11-22T08:22:53 IST" duration-ms="1879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutUsernameAndPassword -->
+      </class> <!-- com.qa.FacebookLoginValidation.LoginPageValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
